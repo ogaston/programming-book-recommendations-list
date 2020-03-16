@@ -9,6 +9,7 @@
 - [Code Simplicity](https://www.amazon.com/Code-Simplicity-Fundamentals-Max-Kanat-Alexander/dp/1449313892)
 - [97 Things Every Programmer Should Know](https://www.amazon.com/Things-Every-Programmer-Should-Know/dp/0596809484)
 - [Soft Skills: The software developer's life manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397)
+- [The Pragmatic Programmer](https://www.amazon.es/Pragmatic-Programmer-Journeyman-Master-ebook/dp/B003GCTQAE)
 
 **Javascript**
 - [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
